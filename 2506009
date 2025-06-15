@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>2506009 정수경</title>
+    <style>
+        body {
+            background-color: #f8f3d2; /* 연한 노란색 배경 */
+            font-family: 'arial', 'Malgun Gothic', sans-serif;
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #2a5d84;
+        }
+
+        img {
+            width: 150px;
+            border-radius: 30%;
+            border: 2px solid #ccc;
+        }
+
+        p, li {
+            font-size: 16px;
+        }
+
+        table {
+            border: 1px solid #666;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            border: 1px solid #666;
+            padding: 8px;
+            background-color: #fff;
+        }
+
+        ul {
+            background-color: #fff;
+            padding: 10px;
+            width: 200px;
+            border: 1px solid #ccc;
+        }
+
+        a {
+            text-decoration: none;
+            color: rgb(59, 59, 59);
+            background-color: #f3afaf;
+            padding: 10px 15px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 15px;
+        }
+
+        a:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>정수경 자기소개 페이지</h1>
+
+    <img src="sukyung.jpg" alt="내 사진"><br><br>
+
+    <p><strong>이름 :</strong> 정수경</p>
+
+    <p><strong>학교 :</strong> 
+        <a href="https://www.hansung.ac.kr/sites/hansung/index.do" target="_blank" style="color:blue; background:none; padding:0;">한성대학교</a>
+    </p>
+
+    <p><strong>학번 :</strong> 2506009</p>
+
+    <p><strong>생년월일 :</strong> 2003년 8월 24일</p>
+
+    <p><strong>지역 :</strong> 경기도 부천시</p>
+
+    <p><strong>MBTI :</strong> ISTP</p>
+
+    <p><strong>혈액형 :</strong> AB형</p>
+
+    <h2>좋아하는 음식</h2>
+    <ul>
+        <li>초밥</li>
+        <li>샤브샤브</li>
+        <li>과일</li>
+    </ul>
+
+    <h2>연락처</h2>
+    <table>
+        <tr>
+            <th>전화번호</th>
+            <td>010-9142-4426</td>
+        </tr>
+        <tr>
+            <th>이메일</th>
+            <td>sukyung030@naver.com</td>
+        </tr>
+    </table>
+
+    <br>
+    <a href="a.html">회원가입 하러 가기</a>
+
+</body>
+</html>
+</a>
+</body>
+</html>
